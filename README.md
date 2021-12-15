@@ -1,7 +1,7 @@
 # ICTS-SERVICE-PROJECT
 <div align="center">
 
-<img src=""/>
+<img src="https://github.com/ASWINAB11/ICTS-SERVICE-PROJECT/blob/main/Assets/1.PNG"/>
 
 </div>
       
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="" alt="drawing"/>
+<img src="https://github.com/ASWINAB11/ICTS-SERVICE-PROJECT/blob/main/Assets/2.png" alt="drawing"/>
 
 </div>
 
