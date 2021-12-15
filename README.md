@@ -31,9 +31,8 @@
 | 6 | [`Function Overriding`](#) |
 | 7 | [`Generelization`](#) |
 | 8 | [`Dependency`](#) |
-| 9 | [`Aggregation`](#) |
-| 10 | [`Composition`](#) |
-| 11 | [`JDBC`](#) |
-| 12 | [`Swing`](#) |
+| 9 | [`Composition`](#) |
+| 10 | [`JDBC`](#) |
+| 11 | [`Swing`](#) |
 
 </div>
